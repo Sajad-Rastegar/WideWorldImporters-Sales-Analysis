@@ -15,7 +15,7 @@ os.makedirs("charts", exist_ok=True)
 
 connection_string = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
-    "SERVER=SAJAD\\MS_SQL2022;"
+    "SERVER=YourServerName;"
     "DATABASE=WideWorldImporters;"
     "Trusted_Connection=yes;"
 )
